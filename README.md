@@ -78,6 +78,7 @@ Please contact Jingcheng Du: Jingcheng.du@uth.tmc.edu, if you have any questions
 
 ## Cite
 Please cite the following article, if you found the codes are useful for your project.
+```
 @article{10.1093/jamia/ocz085,
     author = {Du, Jingcheng and Chen, Qingyu and Peng, Yifan and Xiang, Yang and Tao, Cui and Lu, Zhiyong},
     title = "{ML-Net: multi-label classification of biomedical texts with deep neural networks}",
@@ -89,4 +90,5 @@ Please cite the following article, if you found the codes are useful for your pr
     url = {https://doi.org/10.1093/jamia/ocz085},
     eprint = {http://oup.prod.sis.lan/jamia/advance-article-pdf/doi/10.1093/jamia/ocz085/28858839/ocz085.pdf},
 }
+```
 
