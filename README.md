@@ -77,7 +77,7 @@ only the MLP part is updated as gradient descent stops at the layer of the docum
 Please contact Jingcheng Du: Jingcheng.du@uth.tmc.edu, if you have any questions
 
 ## Cite
-Please cite the following article, if the codes are useful for your project.
+Please cite the following [article]https://academic.oup.com/jamia/advance-article/doi/10.1093/jamia/ocz085/5522430, if the codes are useful for your project.
 ```
 @article{10.1093/jamia/ocz085,
     author = {Du, Jingcheng and Chen, Qingyu and Peng, Yifan and Xiang, Yang and Tao, Cui and Lu, Zhiyong},
