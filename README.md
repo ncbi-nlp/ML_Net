@@ -31,7 +31,7 @@ ML_Net_label_count_prediction_train     #the training of label count prediction 
 
 ## Data preparation
 ### Download dataset
-The dataset is available here at: https://physionet.org/works/ICD9CodingofDischargeSummaries.
+The dataset is available here at: https://archive.physionet.org/works/ICD9CodingofDischargeSummaries/.
 Please note that you have to acquire the access for MIMIC II Clinical Database project first. Please cite the
 following paper when using the dataset:
 ```
